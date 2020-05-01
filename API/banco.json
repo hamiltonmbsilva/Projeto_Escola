@@ -1,0 +1,88 @@
+{
+  "professores": [
+    {
+      "id": 1,
+      "nome": "Hamilton"
+    },
+    {
+      "id": 2,
+      "nome": "Miguel"
+    },
+    {
+      "id": 3,
+      "nome": "Henrique"
+    }
+  ],
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "ZEZIN ",
+      "sobrenome": "Xavier ",
+      "dataNasc": "15/05/1995",
+      "professor": {
+        "id": 2,
+        "nome": "Miguel"
+      }
+    },
+    {
+      "id": 2,
+      "nome": "Pedrinho",
+      "sobrenome": "Silver",
+      "dataNasc": "01/08/2003",
+      "professor": {
+        "id": 1,
+        "nome": "Hamilton"
+      }
+    },
+    {
+      "id": 3,
+      "nome": "Paulinho",
+      "sobrenome": "Tempestade",
+      "dataNasc": "01/02/2000",
+      "professor": {
+        "id": 2,
+        "nome": "Miguel"
+      }
+    },
+    {
+      "id": 4,
+      "nome": "Fernando",
+      "sobrenome": "Silva",
+      "dataNasc": "20/10/1995",
+      "professor": {
+        "id": 1,
+        "nome": "Hamilton"
+      }
+    },
+    {
+      "id": 5,
+      "nome": "Antonio",
+      "sobrenome": "Terra",
+      "dataNasc": "01/05/2000",
+      "professor": {
+        "id": 3,
+        "nome": "Henrique"
+      }
+    },
+    {
+      "nome": "Naiara Nascimento",
+      "sobrenome": "",
+      "dataNasc": "01/02/2005",
+      "professor": {
+        "id": 3,
+        "nome": "Henrique"
+      },
+      "id": 6
+    },
+    {
+      "nome": "Naiara Lagoa",
+      "sobrenome": "",
+      "dataNasc": "28/02/2000",
+      "professor": {
+        "id": 2,
+        "nome": "Miguel"
+      },
+      "id": 7
+    }
+  ]
+}
